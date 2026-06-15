@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El mapa de nuestros errores
+
+This log tracks the cryptographic history and versioning for the song **El mapa de nuestros errores** (el-mapa-de-nuestros-errores).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:14:05.325108 | `v1` | `275fb9c76215787ddf3788c66700125d8762efb7432811b7653aebae6d684c51` | `996ded28f08f634fb533796d9760d06b49586acc158f9f884523c6f1e917a124` | `2026-06-15_el-mapa-de-nuestros-errores-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
