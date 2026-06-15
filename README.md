@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-mapa-de-nuestros-errores/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for El mapa de nuestros errores](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-mapa-de-nuestros-errores/) |
+| **Get License** | [Commercial Licensing for El mapa de nuestros errores](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-mapa-de-nuestros-errores/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la luna es testigo de lo que escondemo'.. yeah-yeah..
+> Me tiras una mirada y de una nos entendemo'
+> Este fuego no se apaga, dime tú qué hacemo'
+> Buscando el mapa de nuestros errore', esta noche nos perdemo'
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
